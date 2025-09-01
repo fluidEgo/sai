@@ -73,7 +73,5 @@ This project is developed for SIH 2025 using React.js, Flask, Python (MediaPipe,
 - **Team**: Six dedicated freshers building a solution for Indian sports talent.
 
 ## License
-MIT License. See [LICENSE](LICENSE) for details.
-
 ---
 
