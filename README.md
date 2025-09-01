@@ -20,23 +20,6 @@ This project is developed for SIH 2025 using React.js, Flask, Python (MediaPipe,
 - **PWA**: Offline access, installable on Android/iOS, optimized for low-bandwidth rural areas.
 - **Officials’ Dashboard**: Web interface for SAI officials to view athlete data with filters (e.g., by gender).
 
-## Project Structure
-```
-sai-talent-app/
-├── assets/                    # Images for badges, PWA icons
-│   ├── icon-192.png          # PWA icon (192x192)
-│   ├── icon-512.png          # PWA icon (512x512)
-│   └── star.png              # Gamification badge
-├── index.html                # React frontend (user interface)
-├── dashboard.html            # Officials’ dashboard
-├── app.py                    # Flask backend (API)
-├── situp_counter.py          # AI/ML video analysis
-├── manifest.json             # PWA manifest
-├── service-worker.js         # PWA offline support
-├── requirements.txt          # Backend dependencies
-└── README.md                 # This file
-```
-
 ## Technologies Used
 - **Frontend**: React.js (via CDN), Tailwind CSS, Axios, Tesseract.js (OCR), Web Speech API, Geolocation API, MediaRecorder API.
 - **Backend**: Flask, SQLite, Flask-CORS.
