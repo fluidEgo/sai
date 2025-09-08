@@ -2,12 +2,12 @@
 
 ## TITLE PAGE
 
-- Problem Statement ID – SIH1577
-- Problem Statement Title- Democratizing Sports Talent Assessment for India
+- Problem Statement ID – SIH25073
+- Problem Statement Title- Al-Powered Mobile Platform for Democratizing Sports Talent Assessment
 - Theme- Sports & Fitness
 - PS Category- Software
-- Team ID- 123456
-- Team Name (Registered on portal)- TalentScout Pioneers
+- Team ID- XXXXXXXX
+- Team Name-Khel
 
 ## IDEA TITLE
 
